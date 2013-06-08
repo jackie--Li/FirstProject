@@ -1,0 +1,11 @@
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\FirstProject.Form1.resources
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\FirstProject.Properties.Resources.resources
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\bin\Debug\AppDB\Person.accdb
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\FirstProject.exe
+F:\MicrosoftWorkSpace\FirstProject\FirstProject\obj\x86\Debug\FirstProject.pdb
